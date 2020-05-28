@@ -14,6 +14,9 @@
 ### CSS:
 -> http://leaverou.github.io/animatable/ -> CSS property animation
 
+### Other resources:
+-> http://tutorials.jenkov.com/
+
 
 
 ### Free Video courses:
